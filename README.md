@@ -17,7 +17,8 @@ Aku masih dalam tahap belajar, jadi untuk skill teknis biar aku skip dulu aja ğŸ
 ---
 
 ### ğŸ¯ Target Belajar
-- Web Development (Python + Flask)  
+- Web Development (Python + Flask)
+- django , tensorflow, docker
 - Integrasi AI untuk web frontend  
 - Database Management  
 
